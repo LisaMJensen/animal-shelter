@@ -15,3 +15,19 @@ img {
 .intro {
   background-color: lightblue;
 }
+
+
+
+
+@media screen and (min-width: 300px) and (max-width: 480px){
+  body {
+    background-color: teal;
+    }
+  }
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+  body {
+    background-color: salmon;
+  }
+
+}
