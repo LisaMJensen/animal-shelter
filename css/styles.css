@@ -1,0 +1,13 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+p {
+  background-color: red;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
